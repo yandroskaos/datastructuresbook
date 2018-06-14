@@ -10,17 +10,17 @@
 #### 2. Sequences
 
 1. Lists
-   1. Linked
-   2. Simulated
-   3. List of Lists
+	1. Linked
+	2. Simulated
+	3. List of Lists
 2. Stacks
-   1. Representation
-   2. Examples
-      1. Translation from infix to postfix
-      2. Postfix evaluation
+	1. Representation
+	2. Examples
+		1. Translation from infix to postfix
+		2. Postfix evaluation
 3. Queues
-   1. Representation
-   2. Circular queues
+	1. Representation
+	2. Circular queues
 
 #### 3. Recursion
 
@@ -36,20 +36,20 @@
 
 1. Internal Sorting
 2. Simple Methods
-   1. Direct insertion
-   2. Binary insertion
-   3. Direct selection
-   4. Direct exchange (bubble sort)
+	1. Direct insertion
+	2. Binary insertion
+	3. Direct selection
+	4. Direct exchange (bubble sort)
 3. Advanced methods
-   1. Shell sort
-   2. Heap sort
-   3. Merge sort
-   4. Quick sort
+	1. Shell sort
+	2. Heap sort
+	3. Merge sort
+	4. Quick sort
 4. External Sorting
-   1. Direct merge
-   2. Natural merge
-   3. Balanced merge
-   4. Polyphasic merge
+	1. Direct merge
+	2. Natural merge
+	3. Balanced merge
+	4. Polyphasic merge
 
 #### 5. Trees
 
@@ -58,7 +58,7 @@
 3. AVL Trees
 4. Optimal search trees
 5. Multipath trees
-   1. Transformation from a multipath tree to a binary one
+	1. Transformation from a multipath tree to a binary one
 6. B-Trees
 7. Splay Trees
 8. Expression trees??
@@ -66,14 +66,24 @@
 
 #### 6. Graphs
 
+1. Definition and basic concepts
+2. Basic operations on graphs
+3. Alternative representations
+4. Dijsktra algorithm
+5. Floyd and Warshall algorithms
+6. Spanning tress
+	1. Kruskal algorithm
+	2. Prim algorithm
+7. More algorithms....
+
 #### 7. Hash Tables
 
 1. Hash functions
 2. Open hashing
 3. Closed hashing
-   1. Linear exploration
-   2. Quadratic exploration
-   3. Rehashing
+	1. Linear exploration
+	2. Quadratic exploration
+	3. Rehashing
 
 #### 8. Greedy Algorithms
 
