@@ -74,7 +74,7 @@
 6. Spanning tress
 	1. Kruskal algorithm
 	2. Prim algorithm
-7. More algorithms....
+7. Topological order
 
 #### 7. Hash Tables
 
